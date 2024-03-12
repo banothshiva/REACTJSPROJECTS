@@ -1,0 +1,23 @@
+
+#header1{
+    color: red;
+    text-align: center;
+    text-decoration: solid;
+    font-style: oblique;
+}
+#labal1{
+    color: rgb(52, 24, 121);
+    text-decoration: coral;
+}
+#input1{
+    color:bisque;
+    font-family: fantasy;
+    font-style: italic
+}
+.button1{
+    background-color: rgb(47, 255, 0);
+    color: blue;
+}
+.bg1{
+    background-color: aqua;
+}
