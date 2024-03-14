@@ -1,0 +1,27 @@
+#h1{
+  color: red;
+}
+#b1{
+width: 100%;
+}
+
+#d1{
+  width: 100vw;
+  height: 5vh;
+  color: red;
+  display: flex;justify-content: baseline;
+  font-style: oblique;
+}
+#d2{
+  width: 100vw;
+  height: 90vh;
+  display: flex;justify-content: baseline;
+  font-style: oblique;
+}
+#d3{
+  width: 100vw;
+  height: 5vh;
+  display: flex;justify-content: baseline;
+  color: green;
+  font-style: oblique;
+}
