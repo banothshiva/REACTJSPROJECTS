@@ -1,0 +1,22 @@
+#h1{
+  color: red;
+}
+#l1{
+  color: brown;
+}
+
+.img1
+{
+ width: 500;
+ height: 300;
+  background-image: url(images/1.jpg);
+  background-repeat: no-repeat;
+}
+.img2{
+  width: 100%;
+  height: 50%;
+  background-repeat: no-repeat;
+  background-image: url(images/2.jpg);
+
+}
+
