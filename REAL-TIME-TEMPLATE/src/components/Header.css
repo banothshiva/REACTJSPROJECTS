@@ -1,0 +1,13 @@
+#h1{
+    color: darkorange;
+    text-align: center;
+    border: double;
+    padding-left: 10%;
+    padding-right: 10%;   
+}
+.cls{
+    color: red;
+    border: double;
+    background-color:aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
